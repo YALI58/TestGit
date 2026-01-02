@@ -1,3 +1,3 @@
 # TestGit
-play git and be betterâ€
-123˜
+play git and be betterï¿½
+123ï¿½
